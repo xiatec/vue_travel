@@ -4,7 +4,7 @@
 
 ##### 编译安装
 
-    ``` bash
+    bash
     # 安装依赖
     npm install
     
@@ -16,5 +16,5 @@
     
     # 最小化编译生成发布版本,并查看分析报告
     npm run build --report
-    ```
+    
 
